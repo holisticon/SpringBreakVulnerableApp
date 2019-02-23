@@ -65,7 +65,7 @@
     <dependency>
       <groupId>com.h2database</groupId>
       <artifactId>h2</artifactId>
-      <version>1.4.196</version>
+      <version>1.4.198</version>
     </dependency>
   </dependencies>
   <url>https://github.com/m3ssap0/SpringBreakVulnerableApp</url>
